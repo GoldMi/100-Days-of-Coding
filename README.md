@@ -12,4 +12,4 @@ Day 4: Another good night HTML front end coding. Worked just shy of 2 hours befo
 
 Day 5: Lets see if I can get another two hours of coding done! Worked for about a solid hour before I moved on. Focus is still reworking through the HTML5 and CSS front end certification path. 
 
-Day 6: Sadly my dedication has failled to materlize every day, but more like every other day. I continue to go through the front end courses. As others have said though, do not focus soley on the individual drills, but put it to work in a project! 
+Day 6: Sadly my dedication has failled to materlize every day, but more like every other day. I continue to go through the front end courses. As others have said though, do not focus soley on the individual drills, but put it to work in a project! Day 6 did see me wrap up HTML and CSS and move on to bootstrap. The review is now over and I'm starting something new. 
