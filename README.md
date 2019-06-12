@@ -17,3 +17,5 @@ Day 6: Sadly my dedication has failled to materlize every day, but more like eve
 Day 7: More boostrap introduction and practical application. During my daily Medium article scan, I came across a write up about bootstrap and dashboards. Reading the article and deep diving into it, it made a lot more sense. I felt like Neo in the Matrix when it all started clicking and he could see the 0s and 1s. 
 
 Day 8: After working on an outdoor project, I transitioned to more coding. Rocked about an 1.5 hours of coding and made some good progress on more bootstrap classes. 
+
+Day 9 / Day 1: 12 June. I started over on HTML 5. After a hiatus, I needed to get focused and just do it. 3d time is a charm. 1 hour of coding. 
