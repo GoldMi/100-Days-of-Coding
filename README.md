@@ -17,3 +17,7 @@ Day 6: Sadly my dedication has failled to materlize every day, but more like eve
 Day 7: More boostrap introduction and practical application. During my daily Medium article scan, I came across a write up about bootstrap and dashboards. Reading the article and deep diving into it, it made a lot more sense. I felt like Neo in the Matrix when it all started clicking and he could see the 0s and 1s. 
 
 Day 8: After working on an outdoor project, I transitioned to more coding. Rocked about an 1.5 hours of coding and made some good progress on more bootstrap classes. 
+
+Day 9 / Day 1: Deciding to restart my coding path, I started over from the begining. I worked in the morning and was able to push through the majority of all of into into HTML. I also worked on the module during the evening. 
+
+Day 2: The early bird gets the worm! Being a able to commit to waking up early allows for a peaceful cup of coffee and and atleast an hour of coding. I completed the basic HTML intro and dove into CSS! 
