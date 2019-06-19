@@ -18,9 +18,11 @@ Day 7: More boostrap introduction and practical application. During my daily Med
 
 Day 8: After working on an outdoor project, I transitioned to more coding. Rocked about an 1.5 hours of coding and made some good progress on more bootstrap classes. 
 
-Day 9 / Day 1: Deciding to restart my coding path, I started over from the begining. I worked in the morning and was able to push through the majority of all of into into HTML. I also worked on the module during the evening. 
+Day 9 / 
 
-Day 2: The early bird gets the worm! Being a able to commit to waking up early allows for a peaceful cup of coffee and and atleast an hour of coding. I completed the basic HTML intro and dove into CSS! 
- Day 3: Break - golf
- Day 4: Break - and more golf. Spent fathers day weekend on the golf course and bbqing
- Day 5: Back to the grind. Time to stay consistent and work every day. 
+Day 1 (14 June): Deciding to restart my coding path, I started over from the begining. I worked in the morning and was able to push through the majority of all of into into HTML. I also worked on the module during the evening. 
+Day 2(15 June): The early bird gets the worm! Being a able to commit to waking up early allows for a peaceful cup of coffee and and atleast an hour of coding. I completed the basic HTML intro and dove into CSS! 
+Day 3(16 June): Break - golf
+Day 4(17 June): Break - and more golf. Spent fathers day weekend on the golf course and bbqing
+Day 5 (18 June): Back to the grind. Time to stay consistent and work every day. 
+Day 6 (19 June): More CSS before we hit the road. 
